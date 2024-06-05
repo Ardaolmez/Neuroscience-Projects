@@ -1,2 +1,2 @@
 # Neuroscience-Projects
-My neurscience projects from my university
+Neuroscience projects from my uni years.
